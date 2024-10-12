@@ -20,6 +20,6 @@ Usage:
 
 2. Alternatively, you can run it from the command line:
    - Open Command Prompt as Administrator and run:
-     .\install_kali_wsl.bat
+     .\Installer.bat
 
 3. Follow the instructions provided by the script, including the prompt to restart your computer if necessary.
