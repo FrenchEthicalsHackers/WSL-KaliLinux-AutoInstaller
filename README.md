@@ -1,5 +1,5 @@
 
-Kali Linux WSL Installer Script
+# Kali Linux WSL Installer Script (unoffical)
 
 This script automates the installation of Kali Linux on Windows Subsystem for Linux (WSL).
 It handles enabling WSL and the Virtual Machine Platform if not already enabled and provides an option to restart the system when required.
